@@ -1,0 +1,25 @@
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\bin\Debug\ders 42.exe.config
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\bin\Debug\ders 42.exe
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\bin\Debug\ders 42.pdb
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Form1.resources
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Properties.Resources.resources
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.csproj.GenerateResource.Cache
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.exe
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.pdb
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.csprojResolveAssemblyReference.cache
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Formİstatistik.resources
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.FormGrafikler.resources
+C:\Users\kader\Desktop\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.FormGiris.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\bin\Debug\ders 42.exe.config
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\bin\Debug\ders 42.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\bin\Debug\ders 42.pdb
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.csprojAssemblyReference.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Form1.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.FormGiris.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.FormGrafikler.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Formİstatistik.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders_42.Properties.Resources.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.csproj.GenerateResource.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.csproj.CoreCompileInputs.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\ders 42\ders 42\obj\x86\Debug\ders 42.pdb
